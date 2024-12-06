@@ -48,7 +48,7 @@
 <img src="https://skillicons.dev/icons?i=kubernetes,docker,jenkins,nginx,aws,terraform,bash,grafana,prometheus,linux"/>
 <br/> <h4 align="center">Low-level</h4>
     <img src="https://skillicons.dev/icons?i=cpp"/>
-    <br/> <h4 align="center">Front-end</h4>
+    <br/> <h4 align="center">Front-end to Back-end</h4>
     <img src="https://skillicons.dev/icons?i=html,css,nodejs,javascript,react"/>
 </div>
 
