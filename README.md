@@ -16,7 +16,7 @@
  
  🌱 I’m currently learning **C++, R, Python for Data, Data Analytics**
 
-  🌱 I'm graduate **Bachelor Devops Cloud Engineer & web Developer**
+  🌱 I'm graduate **Bachelor Devops Cloud Engineer & Web Development**
  
  🏴‍☠️ I used to be a Sales Engineer for tech companies 
 
