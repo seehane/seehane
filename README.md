@@ -12,14 +12,13 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **give consulting to techy entrepreneurs**
+  🏴‍☠️ I'm actually a Technical Sales Engineer for tech companies
  
- 🌱 I’m currently learning **C++, R, Python for Data, Data Analytics**
+ 🌱 I’m learning **C++, TCP/IP, R, Python for Data, Data Analytics**
 
-  🌱 I'm graduate **Bachelor Devops Cloud Engineer & Web Development**
+ 🌱 I'm graduate **Bachelor Devops Cloud Engineer & Web Development**
+
  
- 🏴‍☠️ I used to be a Technical Sales Engineer for tech companies && Operation Consultant
-
 💬 Techy Entrepreneur, ask me about **How to upgrade your customer service, how to find new channel of revenues, how to do Enterprise Sales**
 
 ⚡ Fun fact ** Every day, we create 2.5 quintillion bytes of data **
