@@ -16,7 +16,7 @@
  
  🌱 I’m learning **C++, TCP/IP, R, Python for Data, Data Analytics**
 
- 🌱 I'm graduate **Bachelor Devops Cloud Engineer & Web Development**
+ 🎓 I'm graduate **Bachelor Devops Cloud Engineer & Web Development**
 
  
 💬 Entrepreneur ? Ask me about **How to develop your Entreprise Sales**
