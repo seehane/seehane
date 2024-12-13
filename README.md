@@ -19,7 +19,7 @@
  🌱 I'm graduate **Bachelor Devops Cloud Engineer & Web Development**
 
  
-💬 Techy Entrepreneur, ask me about **How to upgrade your customer service, how to find new channel of revenues, how to do Enterprise Sales**
+💬 Entrepreneur ? Ask me about **How to develop your Entreprise Sales**
 
 ⚡ Fun fact ** Every day, we create 2.5 quintillion bytes of data **
 
