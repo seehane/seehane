@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+Welcome+on+my+github!;" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">Passionate about solving global issues with data-driven decisions and operations</h3>
+<h3 align="center">Passionate about High Performance Computing with data-driven decisions and operations</h3>
 <h3 align="center">Trying to find a job to learn more skills : Support Enginneer Finance/Trading/HPC</h3>
 <h3 align="center"> 🌎🪖💥🚀🌪️🏛️</h3>
 
