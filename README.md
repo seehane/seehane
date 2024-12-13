@@ -15,10 +15,10 @@
  🔭 I’m currently working on **give consulting to techy entrepreneurs**
  
  🌱 I’m currently learning **C++, R, Python for Data, Data Analytics**
+
+  🌱 I'm graduate **Bachelor Devops Cloud Engineer & web Developer**
  
  🏴‍☠️ I used to be a Sales Engineer for tech companies 
-
- 🧠 100% Self-taught
 
 💬 Techny Entrepreneur, ask me about **How to upgrade your customer service, how to find new channel of revenues, how to do Enterprise Sales**
 
