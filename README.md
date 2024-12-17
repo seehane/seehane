@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">Passionate about High Performance Computing with data-driven decisions and operations</h3>
-<h3 align="center">Trying to find a job to learn more skills : Support Enginneer Finance/Trading/HPC</h3>
+<h3 align="center">Trying to find a job to learn more skills : Technical / Sales Engineer / Customer Support / Trading Application Support </h3>
 <h3 align="center"> 🌎🪖💥🚀🌪️🏛️</h3>
 
 <br/>
