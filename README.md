@@ -4,21 +4,21 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+Welcome+on+my+github!;" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">Passionate about High Performance Computing with data-driven decisions and operations</h3>
+<h3 align="center">Passionate about Human Relations & Computer Sciences </h3>
 <h3 align="center">My next role can be  : Technical / Sales Engineer / Customer Support / Trading Application Support </h3>
 
 <br/>
 
 <div align="center">
  
-  🏴‍☠️ I'm actually a Technical Sales Engineer for tech companies
+  🏴‍☠️ I'm actually a Sales Engineer Consultant, creating new channels of revenues in the Strategic Account Landscape (CAC40, SBF120, DOW30...)
  
  🌱 I’m learning **C++, TCP/IP, R, Python for Data, Data Analytics**
 
  🎓 I'm graduate **Bachelor Devops Cloud Engineer & Web Development**
 
  
-💬 Entrepreneur ? Ask me about **How to develop your Entreprise Sales**
+💬 Entrepreneur ? Want to have Strategic contrats ? **MESSAGE ME**
 
 ⚡ Fun fact ** Every day, we create 2.5 quintillion bytes of data **
 
