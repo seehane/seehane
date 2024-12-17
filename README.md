@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">Passionate about Human Relations & Computer Sciences </h3>
-<h3 align="center">My next role can be  : Technical / Sales Engineer / Customer Support / Trading Application Support </h3>
+<h3 align="center">My next role can be  : Technical / Sales Engineer </h3>
 
 <br/>
 
