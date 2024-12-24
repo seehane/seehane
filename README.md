@@ -17,9 +17,6 @@
 
  🎓 I'm graduate **Bachelor Devops Cloud Engineer & Web Development**
 
- 
-💬 Entrepreneur ? Want to have Strategic contrats ? **MESSAGE ME**
-
 ⚡ Fun fact ** Every day, we create 2.5 quintillion bytes of data **
 
 <br/>
