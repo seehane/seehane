@@ -5,13 +5,13 @@
 </h1>
 
 <h3 align="center">Passionate about Human Relations & Computer Sciences </h3>
-<h3 align="center">My next role can be  : Technical / Sales Engineer </h3>
+<h3 align="center">My next role can be  : Devops Support Engineer </h3>
 
 <br/>
 
 <div align="center">
  
-  🏴‍☠️ I'm actually a Sales Engineer Consultant, creating new channels of revenues in the Strategic Account Landscape (CAC40, SBF120, DOW30...)
+  🏴‍☠️ I'm actually a Sales Engineer in the process of switching to IT applied to finance
  
  🌱 I’m learning **C++, TCP/IP, R, Python for Data, Data Analytics**
 
