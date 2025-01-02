@@ -4,13 +4,11 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+Welcome+on+my+github!;" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">Passionate about Human Relations & Computer Sciences </h3>
+<h3 align="center">Passionate about computer science applied to high performance and data analytics</h3>
 
 <br/>
 
 <div align="center">
- 
-  🏴‍☠️ I'm actually a Sales Engineer in the process of switching to IT applied to finance
  
  🌱 I’m learning **C++, TCP/IP, R, Python for Data, Data Analytics**
 
