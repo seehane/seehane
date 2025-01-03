@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=01ssh.github-stats" alt="Visitor Badge" />
 
 <h1 align="center">
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C567F7&background=56FFBF00&multiline=true&width=435&lines=Hello+!+Welcome+on+my+planet" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C567F7&background=56FFBF00&center=true&multiline=true&width=435&lines=Hello+!+Welcome+on+my+planet" alt="Typing SVG" /></a>
 </h1>
 
 <h3 align="center">Passionate about computer science applied to high performance and data analytics</h3>
