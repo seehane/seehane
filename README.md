@@ -43,4 +43,11 @@
     <img src="https://skillicons.dev/icons?i=html,css,nodejs,javascript,react"/>
 </div>
 <br/>
+
+<h4 align="center">
+
+[![](https://raw.githubusercontent.com/prkltos/mystats/master/profile-summary-card-output/onedark/0-profile-details.svg)](https://github.com//prkltos/mystats/master/github-profile-summary-cards)
+
+[![](https://raw.githubusercontent.com/prkltos/mystats/master/profile-summary-card-output/onedark/1-repos-per-language.svg)](https://github.com/prkltos/mystats/master/github-profile-summary-cards)</h4>
+
 <hr/>
