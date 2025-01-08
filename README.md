@@ -1,15 +1,13 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=01ssh.github-stats" alt="Visitor Badge" />
 
 <h1 align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C567F7&background=56FFBF00&center=true&multiline=true&width=435&lines=Hello+!+Welcome+on+my+planet" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C567F7&background=56FFBF00&center=true&multiline=true&width=435&lines=Hello+!+Welcome+on+my+Cloud" alt="Typing SVG" /></a>
 </h1>
 
-<h3 align="center">Passionate about soving Human issues with Engineering & Design</h3>
+<h3 align="center">Devops Cloud Engineer</h3>
 <br/>
 
 <div align="center">
- 
- 🌱 I’m learning **C++, TCP/IP, R, Python for Data, Data Analytics**
 
  🎓 I'm graduate **Bachelor Devops Cloud Engineer & Web Development**
 
