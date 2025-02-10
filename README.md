@@ -37,7 +37,7 @@
 <br/> <h4 align="center">LOW-LEVEL</h4>
     <img src="https://skillicons.dev/icons?i=cpp"/> 
 <br/> <h4 align="center">FRONTEND TO BACKEND</h4>
-    <img src="https://skillicons.dev/icons?i=html,css,nodejs,javascript,react"/>
+    <img src="https://skillicons.dev/icons?i=html,css,nodejs,javascript,react, nextjs, typescript"/>
 </div>
 <br/>
 
