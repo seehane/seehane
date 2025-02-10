@@ -9,7 +9,7 @@
 
 <div align="center">
 
- 🎓 I'm graduate **Bachelor Devops Cloud Engineer & Web Development**
+ 🎓 I'm graduate in Devops Cloud Engineering, Web-Development & soon Data Engineering
 
 ⚡ Fun fact ** Every day, we create 2.5 quintillion bytes of data **
 
