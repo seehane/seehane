@@ -31,13 +31,15 @@
 <br/>
 <h4 align="center">DATA</h4>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,mysql,mongodb,postgres,matlab"/>
+    <img src="https://skillicons.dev/icons?i=python,mysql,mongodb,postgres"/>
 <br/> <h4 align="center">DEVOPS - CLOUD - INFRA</h4>
 <img src="https://skillicons.dev/icons?i=kubernetes,docker,jenkins,nginx,aws,terraform,bash,grafana,prometheus,linux"/>
 <br/> <h4 align="center">LOW-LEVEL</h4>
     <img src="https://skillicons.dev/icons?i=cpp"/> 
 <br/> <h4 align="center">FRONTEND TO BACKEND</h4>
-    <img src="https://skillicons.dev/icons?i=html,css,nodejs,javascript,react, nextjs, typescript"/>
+    <img src="https://skillicons.dev/icons?i=html,css,nodejs,javascript,react,nextjs,typescript"/>
+<br/> <h4 align="center">DATA ENGINEERING (Actually learning)</h4>
+ 
 </div>
 <br/>
 
