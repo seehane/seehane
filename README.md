@@ -7,7 +7,7 @@
 
 <div align="center">
 
- 🎓 I'm graduate in Devops Cloud Engineering, Web-Development & soon Data Engineering
+ 🎓 Technical Account Manager focused on client success through tailored Cloud Solutions 
 
 ⚡ Fun fact ** Every day, we create 2.5 quintillion bytes of data **
 
