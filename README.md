@@ -7,7 +7,7 @@
 
 <div align="center">
 
- 🎓 Technical Account Manager focused on client success through tailored Cloud Solutions 
+ 🎓 Master BIG DATA AI at Epitech
 
 ⚡ Fun fact ** Every day, we create 2.5 quintillion bytes of data **
 
