@@ -1,15 +1,12 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=01ssh.github-stats" alt="Visitor Badge" />
 
 <h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=200&center=true&width=435&lines=I+use+data+computing;to+make+state-of-the-art+decisions" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=200&center=true&width=435&lines=I+build+cloud+based+automated+system" alt="Typing SVG" /></a>
 </h1>
 <br/>
 
 <div align="center">
 
- 🎓 Master BIG DATA AI at Epitech
-
-⚡ Fun fact ** Every day, we create 2.5 quintillion bytes of data **
 
 <br/>
  </div>
