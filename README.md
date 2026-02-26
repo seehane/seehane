@@ -4,34 +4,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=694EF7&center=true&vCenter=true&multiline=true&width=500&height=100&lines=Build+%26+Sale+complex+and+autonomous;Decision+Making+Platform" alt="Typing SVG" /></a>
 
 <br/>
- </div>
- 
-<div align="center"> 
-  </a>
-  <a href="https://linkedin.com/in/seehane" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
-</div>
-
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Framework-Tools ⚒️</h2>
-<br/>
-<h4 align="center">DATA</h4>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=python,mysql,mongodb,postgres"/>
-<br/> <h4 align="center">DEVOPS - CLOUD - INFRA</h4>
-<img src="https://skillicons.dev/icons?i=kubernetes,docker,jenkins,nginx,aws,terraform,bash,grafana,prometheus,linux"/>
-<br/> <h4 align="center">LOW-LEVEL</h4>
-    <img src="https://skillicons.dev/icons?i=cpp"/> 
-<br/> <h4 align="center">FRONTEND TO BACKEND</h4>
-    <img src="https://skillicons.dev/icons?i=html,css,nodejs,javascript,react,nextjs,typescript"/>
-<br/> <h4 align="center">DATA ENGINEERING (Actually learning)</h4>
- 
-</div>
-<br/>
 
 <h4 align="center">
 
